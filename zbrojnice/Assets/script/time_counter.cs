@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class time_counter : MonoBehaviour
 {
-    public float time = 0;
+    public static float time = 0;
     private float seconds = 0;
     private float minutes = 0;
     private float hours = 0;

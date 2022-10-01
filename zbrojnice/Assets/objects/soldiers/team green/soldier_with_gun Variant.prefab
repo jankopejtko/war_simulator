@@ -169,3 +169,23 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 8f331a075f44c54408aba40570c1ed6b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5730c564e2b87c1479e96c7d5c8feb9f, type: 3}
+--- !u!1 &8025712827638037509 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 5730c564e2b87c1479e96c7d5c8feb9f, type: 3}
+  m_PrefabInstance: {fileID: 7178850620133343572}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1532556868684049907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8025712827638037509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8826a54cb55c703408ea5e5ee2317044, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soldier: {fileID: 8025712827638037509}
+  isSoldier_with_gun: 1
+  isSoldier_medic: 0
