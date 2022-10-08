@@ -300,10 +300,18 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll"
-"Assets/script/look.cs"
-"Assets/script/move.cs"
-"Assets/script/spawn.cs"
-"Assets/script/time_counter.cs"
+"Assets/script/player/look.cs"
+"Assets/script/player/move.cs"
+"Assets/script/UI/cursor.cs"
+"Assets/script/UI/sceneManagment/button/buttonClick.cs"
+"Assets/script/UI/sceneManagment/exit.cs"
+"Assets/script/UI/sceneManagment/listenForInput.cs"
+"Assets/script/war/check_victory.cs"
+"Assets/script/war/soldier_logic.cs"
+"Assets/script/war/spawn.cs"
+"Assets/script/war/time_counter.cs"
+"Assets/script/war/tools.cs"
+"Assets/script/war/warehouse.cs"
 -langversion:9.0
 
 /deterministic

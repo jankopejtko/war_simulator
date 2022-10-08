@@ -1,500 +1,521 @@
 ﻿{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 0, "tid": 1, "ts": 1664093263267730, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093263269549, "dur": 26584, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093263296514, "dur": 44726, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093263341269, "dur": 285849, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093263627120, "dur": 5455006, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093269082171, "dur": 10792, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093282176264, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093282176550, "dur": 7530, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093282184083, "dur": 32605, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093282216691, "dur": 638721, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093282855415, "dur": 1007264, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093283862683, "dur": 12325, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093283875781, "dur": 95, "ph": "X", "name": "", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242079768478, "dur": 922337203685477580, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242079770104, "dur": 24743, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242079795114, "dur": 2046473, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242081841606, "dur": 10380, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242086769860, "dur": 922337203685477580, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242086770132, "dur": 12401, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242086782537, "dur": 31755, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242086814330, "dur": 1205450, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242088019781, "dur": 1045406, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242089065189, "dur": 13331, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242089079139, "dur": 22, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 35942, "tid": 1, "ts": 1664093282675191, "dur": 165674, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282676342, "dur": 51604, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282823060, "dur": 5154, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282828217, "dur": 12642, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282828989, "dur": 10795, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282846083, "dur": 1550, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1664093282845138, "dur": 2530, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093283876029, "dur": 345, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242087773630, "dur": 229608, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242087774767, "dur": 72079, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242087984943, "dur": 5287, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242087990235, "dur": 12994, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242087991005, "dur": 11140, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242088008495, "dur": 1444, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1665242088007554, "dur": 2409, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242089079265, "dur": 2717, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1664093282901135, "dur":1856, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093282902999, "dur":38, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1664093282903047, "dur":14, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1664093282903063, "dur":554, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1664093282903654, "dur":815, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093282904469, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852109, "dur":205, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852314, "dur":150, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852464, "dur":41, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852505, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852515, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852518, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852526, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852527, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852535, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852537, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852544, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852546, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852552, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852554, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852561, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852563, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852569, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852571, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852577, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852579, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852585, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852587, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852593, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852595, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852602, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852621, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283852626, "dur":2083, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1664093282903610, "dur":867, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093282904479, "dur":5693, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093282910187, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1664093282910192, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093282911982, "dur":606, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1664093282912593, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1664093282912675, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093282913397, "dur":11380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1664093282924779, "dur":13519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":1, "ts":1664093282938306, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093282938322, "dur":62081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":1, "ts":1664093283000456, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":1, "ts":1664093283000618, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283001061, "dur":19133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":1, "ts":1664093283020261, "dur":41684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283061951, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283061962, "dur":1748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283063775, "dur":26507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283090289, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283090300, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283094049, "dur":139109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283233165, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283233176, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283234810, "dur":45654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283280469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283280479, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283282129, "dur":62787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283344923, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283344935, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283346495, "dur":96959, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283443461, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283443472, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283444848, "dur":155604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283600490, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283600501, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283602921, "dur":183397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283786323, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1664093283786331, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":1, "ts":1664093283787833, "dur":64274, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093282903657, "dur":831, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093282904488, "dur":5692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093282910188, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1664093282910499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093282914052, "dur":10254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1664093282924384, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1664093282924583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093282925646, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1664093282928741, "dur":238392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283167142, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283167151, "dur":29556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283197013, "dur":30134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283227155, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283227170, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283228829, "dur":40169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283269004, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283269016, "dur":1924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283271004, "dur":25328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283296338, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283296379, "dur":5600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283302050, "dur":33087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283335144, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283335157, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283336648, "dur":161048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283497703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283497714, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283499234, "dur":194318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283693556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1664093283693562, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":2, "ts":1664093283694953, "dur":157176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093282903641, "dur":841, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093282904482, "dur":5712, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093282910194, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1664093282910463, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093282913057, "dur":13571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1664093282926690, "dur":85367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283012065, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283012220, "dur":8621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283020904, "dur":25113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283046023, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283046034, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283048013, "dur":26864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283074886, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283074902, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283076805, "dur":75670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283152482, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283152494, "dur":1946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283154509, "dur":63634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283218150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283218161, "dur":3016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283221262, "dur":29463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283250741, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283250757, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283252524, "dur":139731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283392262, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283392288, "dur":3694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283396045, "dur":240850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283636905, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283636918, "dur":6102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":3, "ts":1664093283643080, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":3, "ts":1664093283643142, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283643150, "dur":2385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":3, "ts":1664093283645603, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":3, "ts":1664093283645843, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283645888, "dur":1635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":3, "ts":1664093283647586, "dur":6849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":3, "ts":1664093283654439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283654447, "dur":1326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":3, "ts":1664093283655833, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":3, "ts":1664093283655894, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1664093283655899, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":3, "ts":1664093283657341, "dur":194764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093282903694, "dur":799, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093282904493, "dur":5689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093282910195, "dur":12408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":4, "ts":1664093282922608, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093282922625, "dur":3012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":4, "ts":1664093282925703, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":4, "ts":1664093282925925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093282925933, "dur":76418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":4, "ts":1664093283002630, "dur":45318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283047953, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283047962, "dur":6212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283054244, "dur":22005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283076255, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283076267, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283078628, "dur":22951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283101585, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283101596, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283102936, "dur":27025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283129968, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283129979, "dur":2969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283133064, "dur":53991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283187064, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283187075, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283188555, "dur":25637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283214196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283214203, "dur":11178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283225442, "dur":54056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283279505, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283279517, "dur":1566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283281150, "dur":88065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283369225, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283369237, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283371427, "dur":99755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283471188, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283471199, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283473322, "dur":33988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283507316, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283507327, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283508916, "dur":183669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283692591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1664093283692601, "dur":2921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":4, "ts":1664093283695567, "dur":156548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093282903726, "dur":773, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093282904499, "dur":5680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093282910187, "dur":34994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1664093282945189, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093282945700, "dur":54551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1664093283000326, "dur":39178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice.exe" }}
-,{ "pid":12345, "tid":5, "ts":1664093283039510, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283039521, "dur":2040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice.exe" }}
-,{ "pid":12345, "tid":5, "ts":1664093283041621, "dur":103154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283144785, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283144796, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283146302, "dur":25389, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283171699, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283171736, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283173605, "dur":27647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283201259, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283201270, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283203045, "dur":34735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283237820, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283237833, "dur":3834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283241829, "dur":43738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283285574, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283285585, "dur":1355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283286997, "dur":33019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283320023, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283320034, "dur":1799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283321896, "dur":44133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283366036, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283366048, "dur":1658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283367767, "dur":99167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283466943, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283466953, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283468906, "dur":101239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283570152, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283570167, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283571583, "dur":55961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283627551, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283627563, "dur":1644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":5, "ts":1664093283629335, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":5, "ts":1664093283629421, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283629524, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":5, "ts":1664093283631113, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1664093283631175, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1664093283631184, "dur":36825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1664093283668117, "dur":184032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093282903753, "dur":751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093282904504, "dur":5693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093282910197, "dur":11525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1664093282921729, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093282921807, "dur":3218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1664093282925104, "dur":16237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1664093282941382, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093282941398, "dur":59053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1664093283000509, "dur":71231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283071748, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283071759, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283073442, "dur":68318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283141766, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283141777, "dur":3447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283145323, "dur":66216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283211547, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283211560, "dur":10570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283222224, "dur":63946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283286174, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283286182, "dur":18703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283304947, "dur":32601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283337553, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283337562, "dur":3941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283341575, "dur":53613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283395194, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283395205, "dur":1262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283396539, "dur":66295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283462840, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283462850, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283464757, "dur":92440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283557204, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283557215, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283558820, "dur":119277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Newtonsoft.Json.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283678103, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1664093283678112, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Newtonsoft.Json.dll" }}
-,{ "pid":12345, "tid":6, "ts":1664093283679813, "dur":172322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093282903784, "dur":725, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093282904510, "dur":5690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093282910200, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1664093282910536, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093282915357, "dur":251839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1664093283167262, "dur":46328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283213595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093283213603, "dur":6614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283220286, "dur":74239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283294532, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093283294545, "dur":7446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283302055, "dur":162933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283464992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093283465030, "dur":3476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283468589, "dur":32252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283500847, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093283500858, "dur":1299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283502218, "dur":201420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283703644, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1664093283703654, "dur":3159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":7, "ts":1664093283706867, "dur":145256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093282903819, "dur":696, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093282904515, "dur":5672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093282910188, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":8, "ts":1664093282910499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093282913383, "dur":258635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":8, "ts":1664093283172144, "dur":41257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283213408, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283213420, "dur":3358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283216841, "dur":38109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283254960, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283254975, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283257814, "dur":42477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283300298, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283300310, "dur":3351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283303722, "dur":43967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283347695, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283347706, "dur":2897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283350670, "dur":61666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283412345, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283412358, "dur":3007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283415919, "dur":93709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283509634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283509644, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283511480, "dur":37528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283549014, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283549023, "dur":4388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283553467, "dur":113320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283666794, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1664093283666806, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1664093283668713, "dur":183431, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093282903853, "dur":666, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093282904519, "dur":5665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093282910188, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":9, "ts":1664093282910498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093282913363, "dur":13146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":9, "ts":1664093282926581, "dur":41023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093282967611, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093282968144, "dur":34338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283002550, "dur":31892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283034448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283034674, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283036291, "dur":27885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283064182, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283064195, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283066101, "dur":24066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283090175, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283090186, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283093788, "dur":171454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283265261, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283265277, "dur":9347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283274702, "dur":35249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283309958, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283309970, "dur":3315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283313345, "dur":62371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283375723, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283375735, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283377188, "dur":83396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283460590, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283460601, "dur":1710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283462367, "dur":85194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283547568, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283547579, "dur":2106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283549758, "dur":122446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283672210, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1664093283672221, "dur":1484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":9, "ts":1664093283673759, "dur":178380, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093282903885, "dur":638, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093282904524, "dur":5661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093282910186, "dur":11833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1664093282922023, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093282922040, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1664093282925122, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":10, "ts":1664093282925282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093282925661, "dur":265943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":10, "ts":1664093283191671, "dur":52430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283244108, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283244119, "dur":1396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283245573, "dur":79686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283325263, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283325274, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283327380, "dur":56307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283383694, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283383707, "dur":2104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283385871, "dur":225920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283611798, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283611808, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283613576, "dur":32813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283646393, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283646401, "dur":8972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":10, "ts":1664093283655434, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":10, "ts":1664093283655502, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1664093283655509, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":10, "ts":1664093283657156, "dur":194947, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093282903942, "dur":586, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093282904528, "dur":5662, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093282910191, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":11, "ts":1664093282910520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093282914472, "dur":11450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":11, "ts":1664093282926001, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":11, "ts":1664093282926184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093282926193, "dur":3211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":11, "ts":1664093282929478, "dur":71907, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":11, "ts":1664093283001390, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283001399, "dur":3077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":11, "ts":1664093283004544, "dur":44024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283048572, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283048581, "dur":3019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283051673, "dur":26488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283078169, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283078182, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283079666, "dur":32697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283112370, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283112382, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283114158, "dur":44776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283158941, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283158952, "dur":5039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283164050, "dur":52925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283216979, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283216989, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283219559, "dur":68232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283287796, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283287805, "dur":3311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283291178, "dur":26909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283318095, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283318107, "dur":2204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283320388, "dur":52627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283373021, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283373033, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283374524, "dur":63478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283438009, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283438020, "dur":2581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283440659, "dur":154151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283594818, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283594829, "dur":2400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283597308, "dur":250582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283847895, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1664093283847905, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":11, "ts":1664093283852067, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":11, "ts":1664093283852070, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093282903997, "dur":536, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093282904533, "dur":5659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093282910193, "dur":11322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":12, "ts":1664093282921524, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093282921555, "dur":3332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":12, "ts":1664093282925040, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":12, "ts":1664093282925262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093282926256, "dur":74678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":12, "ts":1664093283001102, "dur":32420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283033532, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283034022, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283035926, "dur":44937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283080874, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283080888, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283082647, "dur":55283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283137973, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283137984, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283139988, "dur":120229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283260238, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283260249, "dur":19578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283279912, "dur":42209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283322127, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283322138, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283324607, "dur":52726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283377341, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283377353, "dur":9160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283386571, "dur":132328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283518905, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283518915, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283520386, "dur":128250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283648641, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283648652, "dur":3051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":12, "ts":1664093283651773, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/level0.resS" }}
-,{ "pid":12345, "tid":12, "ts":1664093283651841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283651850, "dur":2312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/level0.resS" }}
-,{ "pid":12345, "tid":12, "ts":1664093283654231, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/level0" }}
-,{ "pid":12345, "tid":12, "ts":1664093283654297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283654306, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/level0" }}
-,{ "pid":12345, "tid":12, "ts":1664093283656025, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1664093283656255, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1664093283656260, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_simulator build/zbrojnice_Data/boot.config" }}
-,{ "pid":12345, "tid":12, "ts":1664093283657578, "dur":194524, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1664093283856624, "dur":2059, "ph":"X", "name": "ProfilerWriteOutput" }
-,{ "pid": 0, "tid": 1, "ts": 1664093283876481, "dur": 1391, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1664093283875750, "dur": 2154, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+,{ "pid":12345, "tid":0, "ts":1665242088063331, "dur":1887, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242088065223, "dur":61, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1665242088065299, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1665242088065317, "dur":549, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1665242088065897, "dur":729, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242088066626, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050451, "dur":373, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050824, "dur":38, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050862, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050871, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050881, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050883, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050890, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050892, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050900, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050901, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050908, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050910, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050917, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050918, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050925, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050927, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050933, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050935, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050942, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050943, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050950, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050951, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050958, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050959, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050966, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089050975, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089051017, "dur":2333, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1665242088065864, "dur":767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088066633, "dur":5778, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088072425, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1665242088072429, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088072619, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1665242088072625, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088073724, "dur":5225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1665242088078952, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1665242088079106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088079552, "dur":6643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1665242088086266, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1665242088086419, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088086426, "dur":89200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1665242088175695, "dur":960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR.exe" }}
+,{ "pid":12345, "tid":1, "ts":1665242088176662, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088176686, "dur":2364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR.exe" }}
+,{ "pid":12345, "tid":1, "ts":1665242088179121, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088179205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088179356, "dur":28461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088207898, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088207962, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088207971, "dur":50232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088258263, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088258324, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088258334, "dur":31569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088290003, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088290063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088290072, "dur":161745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088451884, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088452060, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088452072, "dur":43177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088495309, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088495370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088495379, "dur":62040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088557494, "dur":85533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088643033, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088643044, "dur":1325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088644424, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088644479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088644488, "dur":155978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088800534, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088800599, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1665242088800607, "dur":185400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1665242088986053, "dur":64406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088065909, "dur":747, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088066656, "dur":5763, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088072426, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1665242088072721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088082534, "dur":9124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1665242088091762, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1665242088091955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088091968, "dur":230429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1665242088322466, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088322538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088322548, "dur":56091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088378741, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088378803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088378812, "dur":45480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088424360, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088424428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088424439, "dur":31217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088455720, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088455790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088455797, "dur":40222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088496074, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088496141, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088496148, "dur":32552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088528758, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088528818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088528828, "dur":73014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088601903, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088601962, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088601970, "dur":274642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1665242088876678, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1665242088876751, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088876762, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1665242088879736, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1665242088879803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1665242088879809, "dur":3419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1665242088883304, "dur":167144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088065904, "dur":734, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088066638, "dur":5791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088072429, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1665242088072767, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088093615, "dur":82290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1665242088175970, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1665242088176131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088176524, "dur":16261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1665242088192916, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088193024, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088193037, "dur":44003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088237116, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088237194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088237204, "dur":127989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088365253, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088365310, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088365318, "dur":44996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088410386, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088410462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088410473, "dur":50662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088461198, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088461264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088461275, "dur":42133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088503472, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088503534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088503544, "dur":73538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088577149, "dur":263060, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088840215, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088840227, "dur":11544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1665242088851835, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1665242088851902, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088851967, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1665242088854117, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1665242088854178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088854188, "dur":13130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1665242088867372, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1665242088867436, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088867445, "dur":2732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1665242088870247, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1665242088870424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088870430, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1665242088872463, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1665242088872559, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088872565, "dur":6429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1665242088879059, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1665242088879123, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1665242088879130, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1665242088881776, "dur":168674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088066227, "dur":511, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088066738, "dur":5689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088072428, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1665242088072755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088088061, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1665242088090843, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1665242088091059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088091072, "dur":84245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1665242088175405, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1665242088175492, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088175498, "dur":94973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1665242088270569, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088270667, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088270679, "dur":76314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088347055, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088347111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088347120, "dur":54438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088401620, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088401678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088401687, "dur":77840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088479599, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088479674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088479716, "dur":43165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088522949, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088523021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088523030, "dur":98453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088621539, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088621596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088621603, "dur":165163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088786828, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242088786889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1665242088786898, "dur":263469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1665242089050413, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1665242089050415, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088065970, "dur":695, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088066666, "dur":5756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088072426, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1665242088072713, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088078076, "dur":7970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1665242088086120, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1665242088086318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088086410, "dur":88187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1665242088174671, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088174833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088174838, "dur":166579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088341489, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088341568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088341577, "dur":29623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088371272, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088371332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088371342, "dur":49849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088421271, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088421346, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088421356, "dur":41311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088462736, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088462816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088462827, "dur":134504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088597393, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088597453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088597462, "dur":122532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088720050, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088720107, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088720116, "dur":51973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088772147, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088772206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088772217, "dur":44363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088816639, "dur":46708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088863361, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088863374, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1665242088865415, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1665242088865483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088865493, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1665242088867265, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1665242088867348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088867360, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1665242088869448, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1665242088869519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088869528, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1665242088872172, "dur":1476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1665242088873657, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088873671, "dur":5896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1665242088879624, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1665242088879673, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1665242088879687, "dur":2166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1665242088881911, "dur":168546, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088066001, "dur":685, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088066686, "dur":5731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088072426, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1665242088072700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088074426, "dur":98661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1665242088173171, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1665242088173367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088173377, "dur":3571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1665242088177028, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088177111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088177606, "dur":75867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088253544, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088253672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088253722, "dur":29961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088283752, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088283863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088283876, "dur":59790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088343733, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088343797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088343806, "dur":76994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088420870, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088420984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088420994, "dur":71275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088492344, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088492406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088492416, "dur":28796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088521272, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088521331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088521343, "dur":40464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088561878, "dur":100731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088662612, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088662619, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088666076, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088666141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088666151, "dur":102976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088769191, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088769329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1665242088769340, "dur":128118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1665242088897508, "dur":152957, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088066035, "dur":663, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088066699, "dur":5733, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088072434, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1665242088072737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088083321, "dur":9839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1665242088093254, "dur":738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1665242088093996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088094006, "dur":79730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1665242088173833, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088174040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088174766, "dur":52096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088226937, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088227017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088227026, "dur":46141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088273234, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088273302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088273309, "dur":24863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088298237, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088298308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088298317, "dur":26459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088324852, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088324954, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088324965, "dur":127061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088452184, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088452251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088452257, "dur":123144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088575464, "dur":86868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088662339, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088662378, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088664252, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088664336, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088664347, "dur":42273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088706686, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088706753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1665242088706762, "dur":210370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1665242088917183, "dur":133276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088066068, "dur":637, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088066705, "dur":5715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088072425, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1665242088072783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088095706, "dur":90690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1665242088186460, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088186534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088186544, "dur":47848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088234467, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088234556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088234567, "dur":29650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088264291, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088264365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088264376, "dur":26328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088290797, "dur":159278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088450084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088450096, "dur":5037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088455205, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088455297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088455308, "dur":30495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088485869, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088485931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088485943, "dur":134655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088620655, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088620716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088620726, "dur":104084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088724867, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088724923, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1665242088724931, "dur":161944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1665242088886946, "dur":163518, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088066099, "dur":617, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088066717, "dur":5719, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088072436, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1665242088072768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088094796, "dur":260378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1665242088355242, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088355317, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088355422, "dur":43027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088398518, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088398599, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088398649, "dur":54315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088453035, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088453103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088453113, "dur":54869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088508086, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088508148, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088508157, "dur":61218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088569439, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088569513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088569526, "dur":86724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088657569, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088657747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088657756, "dur":106409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088764292, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088764362, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088764371, "dur":116673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1665242088881116, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1665242088881298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1665242088881308, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1665242088883424, "dur":167037, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088066144, "dur":580, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088066724, "dur":5699, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088072432, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1665242088072789, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088171785, "dur":12846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1665242088184728, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088184805, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088184815, "dur":29122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088214003, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088214107, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088214169, "dur":27078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088241743, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088241857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088241869, "dur":31249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088273194, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088273268, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088273279, "dur":80325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088353671, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088353737, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088353746, "dur":74410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088428269, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088428330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088428339, "dur":44527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088472970, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088473049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088473059, "dur":75239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088548357, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088548427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088548437, "dur":63865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088612362, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088612419, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088612456, "dur":83152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088695684, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088695754, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088695763, "dur":171672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1665242088867502, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1665242088867575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1665242088867581, "dur":34662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1665242088902291, "dur":148175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088066169, "dur":560, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088066729, "dur":5705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088072435, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1665242088072745, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088087097, "dur":86768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1665242088173959, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088174161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088174713, "dur":72511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088247299, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088247403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088247413, "dur":32282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088279772, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088279866, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088279879, "dur":39039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088318995, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088319062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088319071, "dur":47595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088366722, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088366778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088366785, "dur":29290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088396144, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088396217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088396227, "dur":28774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088425081, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088425151, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088425160, "dur":43411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088468657, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088468739, "dur":87, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088468837, "dur":55145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088524066, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088524181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088524192, "dur":142371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088666616, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088666671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088666678, "dur":40138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088706937, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088707073, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1665242088707081, "dur":185840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1665242088892971, "dur":157481, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088066203, "dur":531, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088066734, "dur":5690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088072425, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1665242088072712, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088077970, "dur":247872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1665242088325916, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088325985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088325993, "dur":81337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088407411, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088407478, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088407488, "dur":75522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088483099, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088483178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088483188, "dur":75382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088558649, "dur":98030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088656683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088656694, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088658827, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088658893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088658901, "dur":77578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088736535, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088736592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088736600, "dur":135583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1665242088872267, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level2.resS" }}
+,{ "pid":12345, "tid":12, "ts":1665242088872335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088872345, "dur":6208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level2.resS" }}
+,{ "pid":12345, "tid":12, "ts":1665242088878620, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1665242088878688, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088878699, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1665242088880811, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1665242088880906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1665242088880916, "dur":2211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1665242088883196, "dur":167258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1665242089055352, "dur":2066, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1665242089082062, "dur": 994, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665242089079129, "dur": 3950, "ph": "X", "name": "Write chrome-trace events", "args": {} },
