@@ -97,7 +97,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7196}
     - Class: 114
-      Script: {instanceID: 23242}
+      Script: {instanceID: 24504}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1094,4 +1094,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/main screen.unity
   - Assets/Scenes/menu.unity
   - Assets/Scenes/game.unity
-  playerPath: C:/Users/janko/Desktop/war_sim_builds/2/WAR_SIMULATOR.exe
+  playerPath: C:/Users/janko/Desktop/war_sim_builds/3/WAR_SIMULATOR.exe
